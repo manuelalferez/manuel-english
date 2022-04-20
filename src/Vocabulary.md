@@ -5,6 +5,6 @@ I learn new vocabulary through practice. So from time to time, I pick out a few 
 (toward) He was looking towards the house.<br/>
 (toward) You behavior towards me was impolite.
 <br/><br/>
-(coupledom) They are enjoying a happy coupledom. 
+(coupledom) They are enjoying a happy coupledom.<br/>
 (coupledom) I also know inside of that coupledom, all that glitters is not gold. 
 
