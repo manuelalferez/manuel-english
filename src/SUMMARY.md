@@ -1,7 +1,7 @@
 # Summary
 
-- [Introduction](./Introduction.md)
-- [Vocabulary](./Vocabulary.md)
-- [Grammar](./Grammar.md)
-  - [Common mistakes](./Grammar/Common-mistakes.md)
+- [Introduction](./introduction.md)
+- [Vocabulary](./vocabulary.md)
+- [Grammar](./grammar.md)
+  - [Common mistakes](./grammar/common-mistakes.md)
   
